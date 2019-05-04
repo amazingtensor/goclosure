@@ -1,0 +1,1 @@
+Compute the closure of given an input of a set fundctional dependenciies list and a set of attributes X
